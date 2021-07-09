@@ -16,6 +16,7 @@ HTML,CSS,JS.
 3.Room Rentals
 
 
+
  # Screenshots
 Home Page
 
@@ -29,6 +30,26 @@ Login Page
 Sign Up page
 
 ![image](https://user-images.githubusercontent.com/85628776/125086947-b692ae00-e0e9-11eb-98d5-f233f6e1c4d5.png)
+
+Web page for Tenants
+
+![image](https://user-images.githubusercontent.com/85628776/125089921-6832de80-e0ec-11eb-8a31-3ece092f9c46.png)
+
+Web page for Owners
+
+![image](https://user-images.githubusercontent.com/85628776/125090222-bfd14a00-e0ec-11eb-8432-34674d050638.png)
+
+Local Hostel Services
+
+![image](https://user-images.githubusercontent.com/85628776/125091121-c1e7d880-e0ed-11eb-8e0e-49ed12a3b029.png)
+
+Home Appliances
+
+![image](https://user-images.githubusercontent.com/85628776/125091227-db892000-e0ed-11eb-8875-0aeafcd662c6.png)
+
+
+
+
 
 
 
